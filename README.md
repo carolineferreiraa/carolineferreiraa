@@ -3,8 +3,8 @@
 <div>
  <div> 
     <a href="https://github.com/carolineferreiraa">
-    <!--Mini Dashboard-->  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carolineferreiraa&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-    <!--Gráfico de linguagens--> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolineferreiraa&layout=compact&langs_count=8&theme=buefy"/>
+    <!--Mini Dashboard-->  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carolineferreiraa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <!--Gráfico de linguagens--> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolineferreiraa&layout=compact&langs_count=8&theme=dracula"/>
 </div>
    
   <div>
