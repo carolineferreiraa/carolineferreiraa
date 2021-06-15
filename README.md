@@ -11,8 +11,10 @@
     <!--Perfil do Linkedin--><a href="https://www.linkedin.com/in/carolineferreira115" target="_blank"><img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <!--Email do Gmail--> <a href = "mailto: carolinesilva115@gmail.com"><img height="30em" src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Profile views](https://gpvc.arturio.dev/carolineferreiraa) 
-  
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/carolineferreiraa)
+![GMarokov profile view count](https://komarev.com/ghpvc/?username=carolineferreiraa&color=brightgreen)
+
+   
   </div>
    
 </div>
