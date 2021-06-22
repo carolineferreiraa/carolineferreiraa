@@ -14,6 +14,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/carolineferreiraa)
 ![GMarokov profile view count](https://komarev.com/ghpvc/?username=carolineferreiraa&color=brightgreen)
 
+   
 ![Snake animation](https://github.com/carolineferreiraa/carolineferreiraa/blob/output/github-contribution-grid-snake.svg)
    
    
